@@ -8,7 +8,11 @@ ananconda
 jupyter
 
 ## Running the code
-`jupter notebook pandas-data-transformation.ipynb` - This will start the notebook in a browser - http://locahost:8888/
+`jupter notebook pandas-data-transformation.ipynb` 
+
+- This will start the notebook in a browser - http://locahost:8888/
+
+
 `python python-data-transformation.py`
 ### References: ###
 <p>http://sergilehkyi.com/extracting-and-transforming-data-in-python/</p>
